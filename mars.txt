@@ -5,3 +5,6 @@ More lines.
 More blahblahblah. 
 
 Team member is adding ...
+
+
+ADDING CONFLICT
